@@ -8,13 +8,13 @@ https://github.com/sumantadey-ui/diabetesPrediction/assets/113798132/36c816a0-aa
 
 ## Table of Contents
 * Introduction <br>
-Dataset<br>
-Dependencies<br>
-Installation<br>
-Usage<br>
-Results<br>
-Contributing<br>
-License<br>
+* Dataset<br>
+* Dependencies<br>
+* Installation<br>
+* Usage<br>
+* Results<br>
+* Contributing<br>
+* License<br>
 
 ## Introduction
 This repository contains a machine learning project that focuses on predicting the likelihood of an individual having diabetes using the Support Vector Machine (SVM) algorithm. The goal of this project is to develop a predictive model that can assist in early diabetes detection, which may lead to timely intervention and better patient outcomes.
@@ -35,16 +35,16 @@ Outcome: Target variable (0 - Non-diabetic, 1 - Diabetic)
 ## Dependencies
 To run the project successfully, you need the following dependencies:
 
-Python 3.x<br>
-NumPy<br>
-Pandas<br>
-Scikit-learn<br>
+* Python 3.x<br>
+* NumPy<br>
+* Pandas<br>
+* Scikit-learn<br>
 ## Installation<br>
 Clone this repository to your local machine or download it as a ZIP file.<br>
 Ensure you have Python 3.x installed on your system.<br>
 Install the required libraries by running the following command:<br>
 Copy code<br>
-pip install numpy pandas scikit-learn<br>
+$ pip install numpy pandas scikit-learn<br>
 ## Usage
 Before running the code, make sure you have the dataset file diabetes.csv in the data/ directory.<br>
 Open a terminal or command prompt in the project's root directory.<br>
