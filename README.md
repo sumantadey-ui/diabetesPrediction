@@ -50,7 +50,7 @@ Before running the code, make sure you have the dataset file diabetes.csv in the
 Open a terminal or command prompt in the project's root directory.<br>
 Run the diabetes_prediction.py script to train the SVM model and make predictions:<br>
 Copy code<br>
-```python diabetes_prediction.py<br>```
+```python diabetes_prediction.py```<br>
 The script will train the SVM model on the dataset and display the evaluation metrics such as accuracy, precision, recall, and F1-score.
 It will also save the trained model as svm_diabetes_model.pkl, which can be used for future predictions.<br>
 Results
