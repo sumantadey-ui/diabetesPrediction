@@ -8,7 +8,7 @@ https://github.com/sumantadey-ui/diabetesPrediction/assets/113798132/36c816a0-aa
 
 ## Table of Contents
 
-Introduction
+Introduction <br>
 Dataset
 Dependencies
 Installation
