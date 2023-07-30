@@ -44,7 +44,7 @@ Clone this repository to your local machine or download it as a ZIP file.<br>
 Ensure you have Python 3.x installed on your system.<br>
 Install the required libraries by running the following command:<br>
 Copy code<br>
-```pip install numpy pandas scikit-learn<br>```
+```pip install numpy pandas scikit-learn```<br>
 ## Usage
 Before running the code, make sure you have the dataset file diabetes.csv in the data/ directory.<br>
 Open a terminal or command prompt in the project's root directory.<br>
