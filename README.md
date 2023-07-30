@@ -1,3 +1,4 @@
+# Diabetes Prediction using Support Vector Machine (SVM)
 # Demo
 
 https://github.com/sumantadey-ui/diabetesPrediction/assets/113798132/36c816a0-aaae-42c5-b7f8-c8b7f04c9334
@@ -6,6 +7,7 @@ https://github.com/sumantadey-ui/diabetesPrediction/assets/113798132/36c816a0-aa
 
 
 ## Table of Contents
+
 Introduction
 Dataset
 Dependencies
